@@ -8,6 +8,8 @@ Project URL:
 
 GitHub Repository URL:
 
+https://github.com/TheQueenofEverything/MarianaMarques_Portfolio_Project.git
+
 
 Project name:
 
