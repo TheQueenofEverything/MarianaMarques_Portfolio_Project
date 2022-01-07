@@ -1,7 +1,7 @@
 # MarianaMarques_Portfolio_Project
 
 
-January 3rd, 2021
+January 6th, 2022
 
 Project URL:
 
@@ -31,11 +31,11 @@ Project duration (total):
 
 Project start date/end date:
 
-    12/30/2021 / 01/06/2021
+    12/30/2021 / 01/06/2022
 
 Project submission date:
 
-    01/06/2021
+    01/06/2022
 
 Project goal:
 
