@@ -5,10 +5,12 @@ January 3rd, 2021
 
 Project URL:
 
+    https://thequeenofeverything.github.io/MarianaMarques_Portfolio_Project/
+
 
 GitHub Repository URL:
 
-https://github.com/TheQueenofEverything/MarianaMarques_Portfolio_Project.git
+    https://github.com/TheQueenofEverything/MarianaMarques_Portfolio_Project.git
 
 
 Project name:
@@ -29,19 +31,16 @@ Project duration (total):
 
 Project start date/end date:
 
-    12/30/2021 / 01/03/2021
+    12/30/2021 / 01/06/2021
 
 Project submission date:
 
-    01/03/2021
+    01/06/2021
 
 Project goal:
 
-    The project
+    Designing a website from scratch using HTML and CSS.
 
-Project Discription:
-
-    Designing a website from scratch with HTML and CSS to show future employers. 
     
 Project Challenges:
 
@@ -53,3 +52,4 @@ Features to implement in the future:
     Better responsive design layouts for multiple devices using media querys, setting breakpoints and creating layouts using flexbox or a grid.
 
 Screenshot:
+![Screenshot(1)](https://user-images.githubusercontent.com/65464431/148484270-6e32deb8-688f-4408-bbea-09f920a736e1.png)
