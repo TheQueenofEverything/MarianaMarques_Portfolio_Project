@@ -1,4 +1,4 @@
-# MarianaMarques_Portfolio_Project
+# Portfolio_Project
 
 
 January 6th, 2022
@@ -15,7 +15,7 @@ GitHub Repository URL:
 
 Project name:
 
-    MarianaMarques_Portfolio_Project
+    Portfolio_Project
 
 Project type:
 
@@ -28,19 +28,6 @@ Programming Languages used:
 Project duration (total):
 
     72 hours
-
-Project start date/end date:
-
-    12/30/2021 / 01/06/2022
-
-Project submission date:
-
-    01/06/2022
-
-Project goal:
-
-    Designing a website from scratch using HTML and CSS.
-
     
 Project Challenges:
 
