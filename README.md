@@ -25,15 +25,6 @@ Programming Languages used:
 
     HTML and CSS
 
-Project duration (total):
-
-    72 hours
-    
-Project Challenges:
-
-    Figuring how to restructure of the website to be semantically correct;
-    Be more efficient with the selectors and classes so that there was no code repetition;
-
 Features to implement in the future:
 
     Better responsive design layouts for multiple devices using media querys, setting breakpoints and creating layouts using flexbox or a grid.
